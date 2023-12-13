@@ -1,0 +1,21 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "/Users/bhavyamahesh/Downloads/quarto-website-template-main/picture.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/bhavya-mahesh-890b93291
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.bhavya1002@gmail.com"  
+     - icon: music-note-list
+      text: Dhamakapella
+      href: https://www.dhamakapella.co
+---
+
+
+# About Me!
+
+Bhavya Mahesh is a graduate student at Case Western Reserve University. She is currently a Masters in Public Health candidate with a concentration in Population Health Sciences. A member of the Integrated Graduate Studies program, Bhavya is also earning her Bachelors in Cognitive Science with minors in Biology and Chemistry. She is on the pre-med track with hopes to attend medical school in the near future. Bhavya works at the Case Comprehensive Cancer Center, where she is an intern on the Cleveland African American Prostate Cancer Project. She is also a volunteer at the Child and Adolescent Psychiatry Unit at University Hospitals. In her free time, she enjoys reading and singing and is a member of the on-campus premier South Asian Fusion A Cappella Group, Dhamakapella, where she served as President when they placed 1st at the National Championship.

@@ -1,0 +1,70 @@
+
+# website settings
+website:
+  title: "Bhavya Mahesh"                                # Your name
+  description: "Bhavya is a graduate student at Case Western Reserve University working on her Masters in Public Health with a concentration in Population Health Resraech"   # A brief slogan (optional)
+  image: quarto-website-template-main/picture.jpg
+
+
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+
+    # your sub-pages
+    left:
+      - text: "Music"
+        href: music/Music.qmd
+      - text: "Experiences"
+        href: photography/Experiences.qmd
+      - text: "Favorite Things"
+        href: favorite/Favoritethings.qmd
+    
+    # your social media handles
+    right:
+      - icon: linkedin
+        href: www.linkedin.com/in/bhavya-mahesh-890b93291
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.bhavya1002@gmail.com"  
+      - icon: Dhamakapella South Asian A Cappella Team
+        href: https://www.dhamakapella.co
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+    center: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
