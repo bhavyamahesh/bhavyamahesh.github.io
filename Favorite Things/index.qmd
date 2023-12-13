@@ -1,0 +1,22 @@
+---
+title: "Favorite Things"
+---
+
+These are some of my hobbies, projects, and favorite things that I thought I'd share
+
+::: {layout-ncol=2}
+
+## My Cats!
+
+My cats are named Bam and Boozle! They were born in March 2023 and make me laugh so much. Boozle is a brown tabby who loves cuddles and exploring and Bam is a gray tabby who likes to nap and steal your food. They are the cutest cats and I love playing with them.
+![](cats.jpeg)
+## Music
+
+I absolutely love to sing and it is what I do not just for fun, but also whenever I feel stressed, anxious, or otherwise in a bad mood. I love playing my ukulele too and I recently acquired a guitar as well and have started teaching myself how to play. The picture below is from a Variety Show where I performed a medley of many songs with some friends.
+![](singing.jpeg)
+
+## Reading
+
+My other go-to stress-buster apart from singing would be reading. I love books and getting lost in different worlds where I get to meet new characters and learn their stories. I just recently read the prequel to the Hunger Games series, A Ballad of Songbirds and Snakes, which I really enjoyed. 
+
+On a different note, the next book I plan to read is The Immortal Life of Henrietta Lacks. Currently working at the Cancer Center at my university where the community we serve is predominantly African American, Henrietta Lacks has come up may time in our conversations. My hope in reading the book is to learn a little more about her so I can educate myself more on the topic. 

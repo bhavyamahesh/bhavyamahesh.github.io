@@ -1,0 +1,31 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+     - icon: music-note-list
+      text: Dhamakapella
+      href: https://www.dhamakapella.co
+---
+
+
+# Music Videos
+
+This music video is the opening song from my a cappella team's award winning 2022-2023 set. This particular song is called 'Adiye/Youth' and is a blend of the Tamil song 'Adiye' and the English song 'Youth.' My a cappella group also recently released a new EP titled 'Azira.' If you are interested, go check it out on Youtube, Spotify, or Apple Music!
+
+```{html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLXwP8ynl-w?si=FH62kU6H4PcTYnFG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+
+You can also listen to Azira here!
+
+```{html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/63WxqCGVDMt8NuxeHmOXyt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.dhamakapella.co" role="button" target="_blank" style="padding: 15px 30px;">Visit Dhamakapella's website here!</a>
+</div>
+```
